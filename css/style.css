@@ -7,7 +7,12 @@ body {
 h1 {
     font-size: 9.rem;
     font-family: 'Noto Serif', cursive;
-    color: blue;
+    color:dodgerblue;
+}
+
+h2 {
+    font-family: 'Noto Serif';
+    color:cornflowerblue
 }
 
 .top-container {
