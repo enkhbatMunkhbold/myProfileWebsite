@@ -38,3 +38,11 @@ h2 {
     left: 16%;
     top: 20px;
 }
+
+#car {
+    position: absolute;
+    left: 70%;
+    top: 600px;
+    width: 20%;
+    height: 20%;
+}
