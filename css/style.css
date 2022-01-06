@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
 h1 {
     font-family: 'Noto Serif', cursive;
     color:#1C0C5B;
@@ -10,8 +15,7 @@ h2 {
 
 .top-container {
     background: #E5DCC3;
-    text-align: center;
-    /* margin-top: 100px; */
+    margin: 0px;
     height: 800px;
 }
 
@@ -44,11 +48,22 @@ h2 {
 }
 
 .middle-container {
+    position: absolute;
+    margin-top: 0; 
     background: #BAABDA;
-    height: 500px;
-    text-align: center;
+    height: 500px;    
 }
 
-.middleText {
-    width: 100px;
+.intro {
+    width: 20%;
+    padding: auto;
+}
+
+.bottom-container {
+    background: #CDDEFF;
+    height: 500px;
+}
+
+#info {
+    padding-top: 20px;
 }
