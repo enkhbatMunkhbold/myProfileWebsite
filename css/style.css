@@ -1,6 +1,7 @@
 body {
     margin: 0;
     text-align: center;
+    font-family: "Merriweather", serif;
 }
 
 h1 {
@@ -55,15 +56,12 @@ h2 {
 }
 
 .intro {
-    width: 20%;
-    padding: auto;
+    width: 40%;
+    margin: auto;
+    padding-top: 20px;
 }
 
 .bottom-container {
     background: #CDDEFF;
     height: 500px;
-}
-
-#info {
-    padding-top: 20px;
 }
