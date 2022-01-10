@@ -27,6 +27,7 @@ a {
 #top-container {
     background: #E5DCC3;
     margin: 0px;
+    padding-top: 10px;
     height: 800px;
 }
 
